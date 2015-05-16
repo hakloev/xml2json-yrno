@@ -7,6 +7,6 @@ Available at yr.hakloev.no
 
 | Route                           | HTTP method | Description                |
 | ------------------------------- | ----------- | -------------------------- |
-| /api/v1/:state/:municipality/:place | GET         | Get data for place     |
+| /api/v1/forecast/:state/:municipality/:place | GET         | Get data for place     |
 
 More routes to come :D
