@@ -1,0 +1,15 @@
+{
+  "name": "xml2json-yrno",
+  "version": "0.0.1",
+  "description": "Translate YR-weather data from XML to JSON",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Håkon Ødegård Løvdal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3",
+    "xml2js": "^0.4.8"
+  }
+}
