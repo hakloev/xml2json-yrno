@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.12.3",
+    "request": "^2.55.0",
     "xml2js": "^0.4.8"
   }
 }
