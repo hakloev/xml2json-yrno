@@ -5,6 +5,6 @@ Node.js application for converting XML from yr.no to JSON
 
 | Route                           | HTTP method | Description                |
 | ------------------------------- | ----------- | -------------------------- |
-| /api/v1/:state/:municipality/:place | GET         | Get             |
+| /api/v1/:state/:municipality/:place | GET         | Get data for place     |
 
 More routes to come :D
